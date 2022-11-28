@@ -1,1 +1,1 @@
-Test
+This is a map of 6 of Siddharth Chattoraj's favorite places with images and links to more information included. Siddharth's favorite places include Umpqua National Forest, Golden Gate Bridge, UCSB, Mahogany Bay, Burj Khalifa, and Taj Mahal.
